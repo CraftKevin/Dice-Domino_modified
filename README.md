@@ -1,15 +1,15 @@
 ﻿# Dice!
 QQ Dice Robot For TRPG Based on CoolQ 
 
-[![License](https://img.shields.io/github/license/KevinHuang535/Dice-Domino_modified.svg)](http://www.gnu.org/licenses)
-[![GitHub contributors](https://img.shields.io/github/contributors/KevinHuang535/Dice-Domino_modified.svg)](https://github.com/KevinHuang535/Dice-Domino_modified/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/KevinHuang535/Dice-Domino_modified.svg)](https://github.com/KevinHuang535/Dice-Domino_modified/commits)
+[![License](https://img.shields.io/github/license/DomeenoH/Dice-Domino_modified.svg)](http://www.gnu.org/licenses)
+[![GitHub contributors](https://img.shields.io/github/contributors/DomeenoH/Dice-Domino_modified.svg)](https://github.com/KevinHuang535/Dice-Domino_modified/graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/DomeenoH/Dice-Domino_modified.svg)](https://github.com/KevinHuang535/Dice-Domino_modified/commits)
 
 ## 简介
 本项目是基于Dice! QQ Dice Robot for TRPG的修改版本，改变了部分输出反馈。
 修改自<http://kokona.tech/>
 
-GitHub Page: <https://github.com/KevinHuang535/Dice-Domino_modified>
+GitHub Page: <https://github.com/DomeenoH/Dice-Domino_modified>
 
 
 ## License
