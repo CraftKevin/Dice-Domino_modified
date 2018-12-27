@@ -16,7 +16,9 @@ GitHub Page: <https://github.com/DomeenoH/Dice-Domino_modified>
 
 Dice! QQ Dice Robot for TRPG_DominoH modified
 
-Copyright (C) 2018 DominoH多米诺
+Copyright (C) <script type="text/javascript">
+  document.write(new Date().getFullYear());
+</script> DominoH
 
 This program is free software: you can redistribute it and/or modify it under the terms
 of the GNU Affero General Public License as published by the Free Software Foundation,
